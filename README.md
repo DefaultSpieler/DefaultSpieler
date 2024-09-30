@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Student<br>A Machine Learning enthusiast<br>
+
 
 
 ## 🌐 Socials:
